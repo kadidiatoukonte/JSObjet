@@ -1,0 +1,2 @@
+var user_username = prompt('Enter your first name :');
+var user_name = prompt('Enter your name :');
